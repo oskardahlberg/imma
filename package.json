@@ -1,6 +1,6 @@
 {
   "name": "imma",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of functions for dealing with native arrays and objects immutably",
   "main": "index.js",
   "scripts": {

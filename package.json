@@ -1,0 +1,21 @@
+{
+  "name": "imma",
+  "version": "0.0.1",
+  "description": "A collection of functions for dealing with native arrays and objects immutably",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "immutable",
+    "object-path",
+    "setIn",
+    "updateIn",
+    "mergeDeep",
+    "pick",
+    "omit",
+    "deepEquals"
+  ],
+  "author": "Oskar Dahlberg",
+  "license": "MIT"
+}
